@@ -1,3 +1,9 @@
+# Environment variables
+.env
+.env.example
+.env.*   # Ignores all environment files (except .env.example)
+
+
 # Logs
 logs
 *.log
